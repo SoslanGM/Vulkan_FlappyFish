@@ -1,0 +1,1 @@
+Everything in here copyright of Nintendo, of course. Sprites from Super Mario Bros., NES.

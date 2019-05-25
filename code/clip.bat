@@ -1,0 +1,1 @@
+"C:/Program Files/ffmpeg/bin/ffmpeg.exe" -framerate 60 -i "./screenshots/screenshot_%%05d.png" -c:v libx264 -pix_fmt yuv420p out.mp4
